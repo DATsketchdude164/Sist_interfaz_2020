@@ -1,0 +1,137 @@
+body{
+    margin: 20px 50px 20px 50px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family:'Times New Roman', Times, serif;
+    font-size:45px; 
+    margin: 12px;
+    }
+
+#BotonesSuperiores {
+    background-color: rgb(56, 1, 1);
+    height: 150px;
+    margin: 20px 50px 20px 50px;
+    color: rgb(187, 187, 187);
+    font-family:'Gill Sans','Gill Sans Mt';
+    font-size: 25px;
+    width: 20%;
+    padding: 0px;
+    
+}
+
+.foto_principal{
+    width: 60%;
+    margin: 20px 50px 20px 50px;
+}
+
+#envoltorio {
+    margin: 20px 50px 20px 50px;
+    /*margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;*/
+    padding: 15px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    width:70%;
+    }
+
+header{
+       background-color: #7c0000;
+       height: 270px;
+       width: 65%;
+       padding: 0px;
+       margin: 20px 50px 20px 50px;
+    }
+
+.bajada {
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        font-family:'Open Sans', 'Helvetica Neue', sans-serif;
+        width: 65%;
+    }
+
+p{
+    color: rgb(172, 172, 172);
+    font-size: 18px;
+    width: 65%;
+}
+
+.foto2{
+    width: 65%;
+}
+
+.foto3{
+    width: 70%;
+}
+
+.foto4{
+    width: 70%;
+}
+
+.clear{
+    clear:both
+}
+
+aside{
+    width: 100px;
+    float: right;
+    height: auto;
+}
+
+.W0M{
+    width: 450px;
+}
+
+.Wendys{
+    width: 450px;
+}
+
+.Ambulancia{
+    width: 350px;
+}
+
+.FBI{
+    width: 450px;
+}
+
+blockquote{
+    color: rgb(172, 172, 172);
+    width: 65%;
+    font-size: 15px;
+    border-left: rgb(134, 0, 0) solid 1px;
+    border-width: 12px;
+    margin: 20px 50px 20px 50px;
+    padding: 15px;
+}
+
+footer{
+    background-color: rgb(29, 29, 29);
+    color: rgb(160, 160, 160);
+    font-size: 18px;
+    width: fit-content;
+    height: 450px;
+    }
+
+.FooterTitle{
+    margin: 5px 50px 5px 50px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    
+}
+
+.OtherOptions{
+    font-size: 15px;
+    color: rgb(116, 116, 116);
+}
+
+.WedontCare{
+    font-size:13px;
+    color:rgb(116, 116, 116);
+    margin: 5px 50px 5px 50px;
+}
